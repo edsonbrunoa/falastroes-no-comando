@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "falastroes-no-comando", "falastroes-no-comando.csproj", "{897E79DD-B27D-1D42-D0B8-C4E0980CF6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{897E79DD-B27D-1D42-D0B8-C4E0980CF6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897E79DD-B27D-1D42-D0B8-C4E0980CF6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897E79DD-B27D-1D42-D0B8-C4E0980CF6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897E79DD-B27D-1D42-D0B8-C4E0980CF6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DFA3662-3159-4AA0-A248-052ABB35FB54}
+	EndGlobalSection
+EndGlobal
