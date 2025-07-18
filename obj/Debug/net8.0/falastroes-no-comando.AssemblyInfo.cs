@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("falastroes-no-comando")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e3704105346176d10c957fd9175e3d162bf29bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89fafc94d877b72832ff1f7684e1c27c3ff499bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("falastroes-no-comando")]
 [assembly: System.Reflection.AssemblyTitleAttribute("falastroes-no-comando")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
