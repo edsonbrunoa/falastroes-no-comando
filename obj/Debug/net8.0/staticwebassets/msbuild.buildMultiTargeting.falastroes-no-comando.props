@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\falastroes-no-comando.props" />
+</Project>
