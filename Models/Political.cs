@@ -7,7 +7,7 @@ namespace falastroes_no_comando.Models
 {
     public class Political
     {
-        public int Id { get; set; }
+        public int IdPolitical { get; set; }
         public string Name { get; set; }
         public string Details { get; set; }
         public int Percent { get; set; }
