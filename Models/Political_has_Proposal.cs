@@ -10,5 +10,9 @@ namespace falastroes_no_comando.Models
         public int IdPolitical_has_Proposal { get; set; }
         public int IdPolitical { get; set; }
         public int IdProposal { get; set; }
+        public Political Political { get; set; }
+        public Proposal Proposal { get; set; }
+
+
     }
 }

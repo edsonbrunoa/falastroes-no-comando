@@ -12,5 +12,6 @@ namespace falastroes_no_comando.Models
         public string Details { get; set; }
         public int Percent { get; set; }
         public string Status_2 { get; set; }
+        public ICollection<Political_has_Proposal> political_Has_Proposals { get; set; }
     }
 }
