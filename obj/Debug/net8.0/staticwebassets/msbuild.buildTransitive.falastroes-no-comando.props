@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\falastroes-no-comando.props" />
-</Project>
